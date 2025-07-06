@@ -45,7 +45,7 @@ The application is built using a cleaned CSV file:
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/yourusername/space-mission-analyzer.git
+   git clone https://github.com/NIMRAH-S/space-mission-analyzer.git
 
 2. Navigate to the project folder:
    cd space-mission-analyzer
